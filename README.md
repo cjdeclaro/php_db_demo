@@ -26,3 +26,4 @@ columns:
   - Windows: C:\xampp\htdocs
   - MacOS: Applications/XAMPP/xamppfiles/htdocs
 - move the project file inside htdocs
+- go to http://localhost/php_db_demo (or your folder name)
